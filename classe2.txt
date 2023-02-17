@@ -8,8 +8,8 @@ inst2;
 class class2{
 public class1(){}
 fct1{
-inst1;
-inst2;
+inst1...; //test
+inst2...;  //test
 }
 
 

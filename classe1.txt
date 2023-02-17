@@ -1,13 +1,13 @@
 class class1{
 public class1(){}
 fct1{
-inst1;
-inst2;
-inst3; //Release
+inst1...;//test
+inst2...;//test
+inst3...; //Release //test
 }
 
 fct2{
-inst1;
+inst1...; //test
 inst2;
 inst3;
 }
