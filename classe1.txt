@@ -11,7 +11,7 @@ inst1 ; //release2
 fct2{
 inst1...; //test
 inst2;
-inst3;
+// suppr inst
 }
 
 fct3{
