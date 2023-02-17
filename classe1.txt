@@ -3,6 +3,7 @@ public class1(){}
 fct1{
 inst1;
 inst2;
+inst3; //Release
 }
 
 fct2{
@@ -10,15 +11,21 @@ inst1;
 inst2;
 inst3;
 }
-}
 
 fct3{
 inst1;
 inst2;
 inst3;
 }
-}
+
 fct4{
+inst1;
+inst2;
+inst3;
+}
+
+//release
+fct5{
 inst1;
 inst2;
 inst3;

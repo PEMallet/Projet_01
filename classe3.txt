@@ -3,6 +3,7 @@ public class1(){}
 fct1{
 inst1;
 inst2;
+inst3; //release
 }
 
 class class2{
