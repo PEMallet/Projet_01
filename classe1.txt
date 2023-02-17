@@ -18,3 +18,9 @@ inst2;
 inst3;
 }
 }
+fct4{
+inst1;
+inst2;
+inst3;
+}
+}
