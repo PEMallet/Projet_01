@@ -1,6 +1,0 @@
-class class1{
-public class1(){}
-fct1{
-inst1;
-inst2;
-}
