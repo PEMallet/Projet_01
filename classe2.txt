@@ -1,6 +1,6 @@
 class class1{
 /** 
-* comment
+* comment 2222222222222
 */
 public class1(){}
 fct1{
