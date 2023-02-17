@@ -14,8 +14,7 @@ inst3;
 
 fct3{
 inst1;
-inst2;
-inst3;
+// suppr ins2 (master)
 }
 
 fct4{
