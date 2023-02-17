@@ -1,0 +1,6 @@
+classe1Test.txt
+classe2Test.txt
+classe3Test.txt
+
+# On ne conserve pas non plus les classes qui sont générées automatiquement lors de la compilation
+*.class
