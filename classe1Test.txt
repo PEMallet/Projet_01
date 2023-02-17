@@ -6,6 +6,10 @@ inst2;
 inst3; //Release
 }
 
+fctTEST{
+inst;  //ajoue d'un test dans test2
+}
+
 fct2TEST{
 inst1;
 inst2;
