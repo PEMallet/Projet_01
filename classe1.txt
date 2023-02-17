@@ -6,10 +6,12 @@ class class1{
 public class1(){}
 //suppression de fct1 lors de la release
 
+fct11{
+inst1 ; //release2
 fct2{
 inst1...; //test
 inst2;
-inst3;
+//modif release2
 }
 
 fct3{
