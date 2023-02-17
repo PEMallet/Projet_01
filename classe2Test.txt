@@ -1,0 +1,21 @@
+class class1TEST{
+public class1TEST(){}
+fct1{
+inst1;
+inst2;
+}
+
+class class2TEST{
+public class1TEST(){}
+fct1{
+inst1;
+inst2;
+}
+
+
+class class3TEST{
+public class1TEST(){}
+fct1{
+inst1;
+inst2;
+}

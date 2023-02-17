@@ -1,0 +1,22 @@
+class class1{
+public class1(){}
+fct1{
+inst1;
+inst2;
+inst3; //release
+}
+
+class class2{
+public class1(){}
+fct1{
+inst1;
+inst2;
+}
+
+
+class class3{
+public class1(){}
+fct1{
+inst1;
+inst2;
+}
